@@ -11,8 +11,8 @@ How to install
 2. Setup `.zshrc` file as explained below.
 3. Add to the `.zshrc` file any plugin and theme you wish to use.
 
-Setup `.zshrc` file (copy from antigen readme)
-==============================================
+Setup `.zshrc` file (from antigen readme)
+=========================================
 The usage should be very familiar to you if you use Vundle. A typical `.zshrc` might look like this:
 
     source /path-to-antigen-clone/antigen.zsh
