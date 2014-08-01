@@ -40,8 +40,8 @@ The usage should be very familiar to you if you use Vundle. A typical `.zshrc` m
 Plugins
 =======
 * [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting): antigen bundle zsh-users/zsh-syntax-highlighting
-* [Oh-My-Zsh plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview): antigen bundle <plugin name>
+* [Oh-My-Zsh plugins](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins-Overview): antigen bundle [plugin name]
 
 Themes
 ======
-* [Oh-My-Zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes): antigen theme <theme name>
+* [Oh-My-Zsh themes](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes): antigen theme [theme name]
